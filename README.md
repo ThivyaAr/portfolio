@@ -8,18 +8,18 @@
 
 ---
 
-## 💡 Key Interests & Skills
+##  Key Interests & Skills
 
-- 🧠 Machine Learning & Deep Learning
-- 📷 Computer Vision (YOLOv4, Faster R-CNN)
-- 🖥️ Python, TensorFlow, Keras, OpenCV
-- ⚙️ IoT, Embedded Systems (Raspberry Pi, Arduino)
-- 🧪 Real-Time Systems & Sensor Integration
-- 📈 Research and Prototyping for Healthcare Applications
+-  Machine Learning & Deep Learning
+-  Computer Vision (YOLOv4, Faster R-CNN)
+-  Python, TensorFlow, Keras, OpenCV
+-  IoT, Embedded Systems (Raspberry Pi, Arduino)
+-  Real-Time Systems & Sensor Integration
+-  Research and Prototyping for Healthcare Applications
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 - A Dual-Modality Framework for Early Detection of Polycystic Ovary Syndrome
 - Kidney Stone Detection using Convolution Neural Networks (https://github.com/ThivyaAr/Kidney-Stone-Detection-Using-Convolution-Neural-Networks)
@@ -41,7 +41,7 @@
 - Feature Engineering (Infosys springboard)
 - IoT and Robotics (Teachnook)
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - ✉️ Email: [thivyaselvi05@gamil.com](mailto:thivyaselvi05@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/thivya-ar](https://www.linkedin.com/in/thivya-ar)
