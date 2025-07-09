@@ -20,6 +20,9 @@
 ---
 ## Publication
 
+- Design and Implementation of an IEEE-Compliant Receiver for 2.45 GHz QAM Signals
+- https://ieeexplore.ieee.org/document/11005174
+
 ## 📫 Let's Connect
 
 - ✉️ Email: [thivyaselvi05@gamil.com](mailto:thivyaselvi05@gmail.com)
